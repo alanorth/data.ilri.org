@@ -31,3 +31,11 @@ hr {
 footer p {
     color: #aaa;
 }
+
+footer p a,
+footer p a:visited,
+footer p a:active,
+footer p a:hover {
+    color: #aaa;
+    text-decoration: none;
+}
