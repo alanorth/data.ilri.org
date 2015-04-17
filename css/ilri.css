@@ -29,6 +29,10 @@ body {
     color: #660000;
 }
 
+abbr[title] {
+    border-bottom: 1px dotted #ebebeb;
+}
+
 hr {
     border-top: 1px solid #aaa;
 }
