@@ -19,6 +19,13 @@ body {
     color: #666;
 }
 
+.jumbotron a,
+.jumbotron a:visited,
+.jumbotron a:active,
+.jumbotron a:hover {
+    color: #702D3E;
+}
+
 .btn-default {
     background-color: #e3d7d7;
     color: #660000;
