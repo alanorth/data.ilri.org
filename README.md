@@ -15,4 +15,4 @@ To build this site for local viewing or development:
     $ cd data.ilri.org
     $ python -m http.server
 
-The site will then be available on your local machine at the following URL: [http://localhost:8000](http://localhost:8000)
+The site will then be available on your local machine at: [http://localhost:8000](http://localhost:8000)
