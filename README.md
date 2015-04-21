@@ -11,7 +11,7 @@ This site was built using [Bootstrap](http://getbootstrap.com/), the HTML, CSS, 
 ## Building
 To build this site for local viewing or development:
 
-    $ git clone https://github.com/ilri/data.ilri.org
+    $ git clone https://github.com/ilri/data.ilri.org.git
     $ cd data.ilri.org
     $ python -m http.server
 
