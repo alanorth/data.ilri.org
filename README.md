@@ -16,3 +16,10 @@ To build this site for local viewing or development:
     $ python -m http.server
 
 The site will then be available on your local machine at: [http://localhost:8000](http://localhost:8000)
+
+## License
+
+This repository contains the code of [Bootstrap](http://getbootstrap.com)
+which is licensed under the [MIT license](https://raw.githubusercontent.com/twbs/bootstrap/master/LICENSE)
+
+Otherwise, the contents of index.html is [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
